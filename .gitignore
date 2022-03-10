@@ -1,3 +1,4 @@
 .data
+.env
 tokens
 __pycache__
